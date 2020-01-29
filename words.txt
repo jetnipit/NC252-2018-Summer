@@ -1,0 +1,25 @@
+111, aaa
+222, bbb
+333, ccc
+live, มีชีวิต
+body, ร่างกาย
+shape, ทรวดทรง
+hair, ผม
+head, หัว
+eye, ตา
+brow, หน้าผาก
+eyebrow, ขนคิ้ว
+brows, คิ้ว
+nose, จมูก
+mouth, ปาก
+cheek, แก้ม
+tongue, ลิ้น
+gums, เหงือก
+neck, คอ
+chin, คาง
+lip, ริมฝีปาก
+shoulder, บ่า ไหล่
+breast, หน้าอก เต้านม
+444, xxx
+555, yyy
+666, zzz
